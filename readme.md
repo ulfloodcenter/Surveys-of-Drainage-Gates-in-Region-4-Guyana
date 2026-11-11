@@ -2,7 +2,7 @@
 
 **Dataset documentation**  
 **Resource authors:** Gregory Williams, Emad H. Habib, and Mohamed Morsy  
-**HydroShare resource:** https://www.hydroshare.org/resource/f70aea1ab6ff4a918bea857829a65a03/  
+**HydroShare resource:** https://www.hydroshare.org/resource/fca1ca19b9f748a2b90cf38b2effe549/
 **Project support:** U.S. National Science Foundation, Award No. 2426270  
 **Geographic coverage:** Region 4, Guyana
 
